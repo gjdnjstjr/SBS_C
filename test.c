@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(viod) { 
-    printf(hellow);
+    printf(   );
 
     return 0;
 }
