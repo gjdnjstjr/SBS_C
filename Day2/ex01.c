@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void){
+    //?? ???
+    //bit     :0,1?? ??? ???? ????
+    //char    :1byte = 8bit =2^8 = 256
+    //shurt   :2byte
+    //int     :4byte
+    //long    :4byte
+    //long long :8byte
+    char ch1 = 'A';
+    char ch2 =65;
+    printf("?? %c ??? ?? ? : %d \n", ch1, ch2 );
+    // ?? ?? : alt + shift + 
+    printf("??? ?? ?? %d ? ?? %c \n", ch2, ch2 );
+}

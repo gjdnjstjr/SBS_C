@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(viod) {
+int main(viod) { 
+    printf(hellow);
 
-    
+    return 0;
 }
