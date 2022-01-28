@@ -10,3 +10,10 @@
     이후에 main 함수에서 2개의 변수를 출력하여,
     두 변수의 값이 변경된 결과를 확인하시오
 */   
+#include <stdio.h>
+
+int main(void) {
+    
+    
+   return 0;
+}
